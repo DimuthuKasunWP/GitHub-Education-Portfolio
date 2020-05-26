@@ -6,7 +6,6 @@
 This is a tutorial on building a portfolio website using React and tools from the GitHub Student Developer Pack. Tools used from the **GitHub Student Developer Pack** are **Heroku**, **Namecheap** and **GitHub**.  
 
 
-![landing page image](./landing.png)
 
 ## Steps to run locally
 1. Clone the repository using `git clone https://github.com/DimuthuKasunWP/GitHub-Education-Portfolio.git`
