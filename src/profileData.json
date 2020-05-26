@@ -3,7 +3,7 @@
 		"firstName": "Dimuthu",
 		"lastName": "Kasun",
 		"phoneNumber": "",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
+		"bio": "",
     "email": "kasunwpdimuthu@gmail.com",
     "linkedin": "https://linkedin.com/in/dimuthu-kasun/",
 		"github": "https://github.com/DimuthuKasunWP"
@@ -12,12 +12,12 @@
 		{
 				"position": "",
 				"organization": "GitHub",
-				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
+				"aboutWork": "",
+				"fromDate": "",
 				"toDate": "Present"
 		},
 		{
-			"position": "Opensource Developer Intern",
+			"position": "",
 			"organization": "",
 			"aboutWork": "",
 			"fromDate": "June 2019",
@@ -26,7 +26,7 @@
 		{
 			"position": "",
 			"organization": "",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
+			"aboutWork": "",
 			"fromDate": "",
 			"toDate": ""
 		}
