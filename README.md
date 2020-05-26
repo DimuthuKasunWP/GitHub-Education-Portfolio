@@ -5,12 +5,11 @@
 
 This is a tutorial on building a portfolio website using React and tools from the GitHub Student Developer Pack. Tools used from the **GitHub Student Developer Pack** are **Heroku**, **Namecheap** and **GitHub**.  
 
-The hosted version of this repository is live at [http://anupamdagar.com/GitHub-Education-Portfolio](http://anupamdagar.com/GitHub-Education-Portfolio)
 
 ![landing page image](./landing.png)
 
 ## Steps to run locally
-1. Clone the repository using `git clone https://github.com/Anupam-dagar/GitHub-Education-Portfolio.git`
+1. Clone the repository using `git clone https://github.com/DimuthuKasunWP/GitHub-Education-Portfolio.git`
 2. `cd` into the cloned repository and run `yarn`. This will install all the dependencies required for the project.
 3. Run the server using `yarn start`.
 4. Create your own portfolio by editing the `profileData.json` present in the `src` directory.
